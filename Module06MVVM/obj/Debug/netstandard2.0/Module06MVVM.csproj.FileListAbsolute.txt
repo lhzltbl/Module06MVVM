@@ -1,0 +1,16 @@
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\bin\Debug\netstandard2.0\Module06MVVM.deps.json
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\bin\Debug\netstandard2.0\Module06MVVM.dll
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\bin\Debug\netstandard2.0\ref\Module06MVVM.dll
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\bin\Debug\netstandard2.0\Module06MVVM.pdb
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.csproj.AssemblyReference.cache
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\View\EmployeeView.xaml.g.cs
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.AssemblyInfoInputs.cache
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.AssemblyInfo.cs
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.csproj.CoreCompileInputs.cache
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.dll
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\refint\Module06MVVM.dll
+C:\BSIT3-A_TABUAL\Module06MVVM\Module06MVVM\obj\Debug\netstandard2.0\Module06MVVM.pdb
